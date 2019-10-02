@@ -103,7 +103,7 @@ def changing_alan
    programmer_hash
 end
 
-def adding_dennis
+def adding_to_dennis
 	programmer_hash = 
  		{
  		    :yukihiro_matsumoto => {
